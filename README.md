@@ -1,16 +1,19 @@
-# eco_comet
 
-Your personal assistant for a sustainable life!
+# EcoComet
+*Your personal assistant for a sustainable life!*
 
-## Getting Started
+## Inspiration
+Our app takes inspiration from the Forest app as well as an affinity to preserve and protect the environment around us.
 
-This project is a starting point for a Flutter application.
+## What it does
+Our mobile app serves to help users develop sustainable habits by classifying images as recyclable/non recyclable. We also provide tips on how to have a more sustainable life, as well as places to recycle trash at UTD!
 
-A few resources to get you started if this is your first Flutter project:
+## How we built it
+Our backend development team brilliantly trained a machine learning algorithm to classify trash as recyclable or nonrecyclable. This was done using Python.
+The front end is built with Android Studio and Flutter, and utilizes many packages including the Google Maps API to show places near UTD to recycle.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Challenges we ran into
+The back-end's biggest challenges were training the machine learning algorithm to accurately define recyclable/non recyclable material. Another was with integration, as well as how to make the app user friendly and easy to use. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What's next for EcoComet
+We would like to find better ways to encourage sustainability by creating a points system for the user to keep track of their recycling habits. Our goal is to make UTD a greener campus, one little habit at a time!
