@@ -1,4 +1,4 @@
-#Sat Feb 27 18:12:34 CST 2021
+#Sat Feb 27 21:24:09 CST 2021
 path.1=classes.dex
 path.0=classes.dex
 renamed.9=classes10.dex
@@ -9,18 +9,18 @@ renamed.5=classes6.dex
 renamed.4=classes5.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
-base.9=/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_7.dex
+base.9=C\:\\Users\\areeb\\Eco-Comet\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_7.dex
 renamed.1=classes2.dex
-base.8=/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_6.dex
+base.8=C\:\\Users\\areeb\\Eco-Comet\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_6.dex
 renamed.0=classes.dex
-base.7=/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_5.dex
-base.6=/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_4.dex
-base.5=/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_3.dex
-base.4=/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_2.dex
-base.3=/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_1.dex
-base.2=/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_0.dex
-base.1=/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
-base.0=/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+base.7=C\:\\Users\\areeb\\Eco-Comet\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_5.dex
+base.6=C\:\\Users\\areeb\\Eco-Comet\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_4.dex
+base.5=C\:\\Users\\areeb\\Eco-Comet\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_3.dex
+base.4=C\:\\Users\\areeb\\Eco-Comet\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_2.dex
+base.3=C\:\\Users\\areeb\\Eco-Comet\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_1.dex
+base.2=C\:\\Users\\areeb\\Eco-Comet\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_0.dex
+base.1=C\:\\Users\\areeb\\Eco-Comet\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.0=C\:\\Users\\areeb\\Eco-Comet\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.9=classes_7.dex
 path.8=classes_6.dex
 path.7=classes_5.dex
