@@ -179,7 +179,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
                         onPressed: () {
                           Navigator.push(context,
-                              MaterialPageRoute(builder: (context)=>ResultPage())
+                              MaterialPageRoute(builder: (context)=> ResultPage())
                           );
                         },
                       ),
