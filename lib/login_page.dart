@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'ImagePage.dart';
 import 'main.dart';
 
 void main() => runApp(MaterialApp(
@@ -96,17 +97,23 @@ class _LoginPageState extends State<LoginPage> {
                                               height: 50,
                                               width: 120,
                                               child: ElevatedButton(
+                                                onPressed: () {
+                                                  Navigator.push(context,
+                                                      MaterialPageRoute(builder: (context) => ImagePage()),
+                                                  );
+                                                },
                                                 child: Text(
                                                     'Login',
                                                     style: TextStyle(
                                                       fontFamily: 'Oxygen',
                                                       fontSize: 17,
                                                       color: Color(0xffFFF4E1),
-                                                    )
+
                                                 ),
                                               ),
                                             ),
                                           )
+                                          ),
                                         ],
                                       )
                                     ],
