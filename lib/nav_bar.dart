@@ -1,3 +1,4 @@
+import 'package:eco_comet/tips_page.dart';
 import 'package:flutter/material.dart';
 import 'ImagePage.dart';
 import 'ResultPage.dart';
@@ -11,6 +12,7 @@ class NavigationBar extends StatefulWidget {
 class _NavigationBarState extends State<NavigationBar> {
   int _selectedIndex = 0;
   List<Widget> _tabs = <Widget>[
+    TipsPage(),
     ImagePage(),
     ResultPage(),
   ];
@@ -30,7 +32,12 @@ class _NavigationBarState extends State<NavigationBar> {
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
             icon: Icon(Icons.camera_alt,color: Colors.white),
-            title: Text('Camera'),
+            title: Text('Tips'),
+            backgroundColor: Color(0xffA9E5BB),
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.camera_alt,color: Colors.white),
+            title: Text('Take photo'),
             backgroundColor: Color(0xffA9E5BB),
           ),
           BottomNavigationBarItem(
