@@ -1,6 +1,9 @@
-
+<p align="center">
+<img src="/assets/logo.png" width="250">
+  </p>
+  
 # EcoComet
-*Your personal assistant for a sustainable life!*
+*Your personal assistant for a sustainable life! Making UTD greener one step at a time!*
 
 ## Inspiration
 Our app takes inspiration from the Forest app as well as an affinity to preserve and protect the environment around us.
