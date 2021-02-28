@@ -1,4 +1,5 @@
 import 'package:eco_comet/ImagePage.dart';
+import 'package:eco_comet/nav_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 
@@ -7,7 +8,6 @@ void main() => runApp(MaterialApp(
 ));
 
 class ResultPage extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
@@ -74,7 +74,6 @@ class ResultPage extends StatelessWidget {
                 ]
               )
             ),
-
             Padding(
               padding: EdgeInsets.only(top: 50),
               child: Row(

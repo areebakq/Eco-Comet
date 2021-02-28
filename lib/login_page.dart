@@ -1,3 +1,4 @@
+import 'package:eco_comet/nav_bar.dart';
 import 'package:flutter/material.dart';
 import 'ImagePage.dart';
 import 'main.dart';
@@ -99,7 +100,7 @@ class _LoginPageState extends State<LoginPage> {
                                               child: ElevatedButton(
                                                 onPressed: () {
                                                   Navigator.push(context,
-                                                      MaterialPageRoute(builder: (context) => ImagePage()),
+                                                      MaterialPageRoute(builder: (context) => NavigationBar()),
                                                   );
                                                 },
                                                 child: Text(

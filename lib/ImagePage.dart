@@ -2,15 +2,20 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:eco_comet/ResultPage.dart';
+import 'package:eco_comet/nav_bar.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/basic.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:video_player/video_player.dart';
+import 'package:flutter/services.dart';
 
 void main() {
-  runApp(ImagePage());
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitDown,DeviceOrientation.portraitUp]).then((_){
+    runApp(ImagePage());
+  });
 }
 
 class ImagePage extends StatelessWidget {
