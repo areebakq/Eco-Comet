@@ -1,6 +1,7 @@
 import 'package:eco_comet/tips_page.dart';
 import 'package:flutter/material.dart';
 import 'ImagePage.dart';
+import 'MapsPage.dart';
 import 'ResultPage.dart';
 
 
@@ -14,7 +15,7 @@ class _NavigationBarState extends State<NavigationBar> {
   List<Widget> _tabs = <Widget>[
     TipsPage(),
     ImagePage(),
-    ResultPage(),
+    MapsPage(),
   ];
 
   void _onItemTap(int index){
@@ -31,7 +32,7 @@ class _NavigationBarState extends State<NavigationBar> {
         iconSize: 30,
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
-            icon: Icon(Icons.camera_alt,color: Colors.white),
+            icon: Icon(Icons.lightbulb,color: Colors.white),
             title: Text('Tips'),
             backgroundColor: Color(0xffA9E5BB),
           ),
@@ -41,8 +42,8 @@ class _NavigationBarState extends State<NavigationBar> {
             backgroundColor: Color(0xffA9E5BB),
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.perm_device_information,color: Colors.white),
-            title: Text('Result'),
+            icon: Icon(Icons.map_sharp,color: Colors.white),
+            title: Text('UTD Recycle Map'),
             backgroundColor: Color(0xffA9E5BB),
           ),
         ],
