@@ -12,37 +12,37 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->C:\Users\areeb\Eco-Comet\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->C:\Users\areeb\Eco-Comet\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-15-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
-15-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+15-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+15-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
 16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-16-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
-16-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+16-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+16-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->[:firebase_analytics] /Users/anushkap/Desktop/Eco-Comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
-17-->[:firebase_analytics] /Users/anushkap/Desktop/Eco-Comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+17-->[:firebase_analytics] C:\Users\areeb\Eco-Comet\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+17-->[:firebase_analytics] C:\Users\areeb\Eco-Comet\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
 18    <uses-permission android:name="android.permission.WAKE_LOCK" />
-18-->[:firebase_analytics] /Users/anushkap/Desktop/Eco-Comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
-18-->[:firebase_analytics] /Users/anushkap/Desktop/Eco-Comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
+18-->[:firebase_analytics] C:\Users\areeb\Eco-Comet\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-68
+18-->[:firebase_analytics] C:\Users\areeb\Eco-Comet\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-65
 19    <uses-permission android:name="android.permission.CAMERA" />
-19-->[:camera] /Users/anushkap/Desktop/Eco-Comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
-19-->[:camera] /Users/anushkap/Desktop/Eco-Comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-62
+19-->[:camera] C:\Users\areeb\Eco-Comet\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+19-->[:camera] C:\Users\areeb\Eco-Comet\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-62
 20    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-20-->[:camera] /Users/anushkap/Desktop/Eco-Comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-71
-20-->[:camera] /Users/anushkap/Desktop/Eco-Comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-68
+20-->[:camera] C:\Users\areeb\Eco-Comet\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-71
+20-->[:camera] C:\Users\areeb\Eco-Comet\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-68
 21
 22    <uses-feature
-22-->[com.google.android.gms:play-services-maps:17.0.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6b9b7fc1ad481537ed0a66d62976ec46/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6b9b7fc1ad481537ed0a66d62976ec46\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
 23        android:glEsVersion="0x00020000"
-23-->[com.google.android.gms:play-services-maps:17.0.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6b9b7fc1ad481537ed0a66d62976ec46/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6b9b7fc1ad481537ed0a66d62976ec46\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
 24        android:required="true" />
-24-->[com.google.android.gms:play-services-maps:17.0.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6b9b7fc1ad481537ed0a66d62976ec46/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6b9b7fc1ad481537ed0a66d62976ec46\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
 25
 26    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-26-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:26:5-110
-26-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:26:22-107
+26-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:26:5-110
+26-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:26:22-107
 27    <!--
 28 io.flutter.app.FlutterApplication is an android.app.Application that
 29         calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -51,30 +51,30 @@
 32         FlutterApplication and put your custom class here.
 33    -->
 34    <application
-34-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:8:5-48:19
+34-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:8:5-48:19
 35        android:name="io.flutter.app.FlutterApplication"
-35-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:9:9-57
+35-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:9:9-57
 36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-36-->[androidx.core:core:1.1.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:18-86
+36-->[androidx.core:core:1.1.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
 37        android:debuggable="true"
 38        android:icon="@mipmap/ic_launcher"
-38-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:11:9-43
+38-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:11:9-43
 39        android:label="eco_comet" >
-39-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:10:9-34
+39-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:10:9-34
 40        <activity
-40-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:12:9-42:20
+40-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:12:9-40:20
 41            android:name="com.gemini.eco_comet.MainActivity"
-41-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:13:13-41
+41-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:13:13-41
 42            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-42-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:16:13-163
+42-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:16:13-163
 43            android:hardwareAccelerated="true"
-43-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:17:13-47
+43-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:17:13-47
 44            android:launchMode="singleTop"
-44-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:14:13-43
+44-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:14:13-43
 45            android:theme="@style/LaunchTheme"
-45-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:15:13-47
+45-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:15:13-47
 46            android:windowSoftInputMode="adjustResize" >
-46-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:18:13-55
+46-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:18:13-55
 47
 48            <!--
 49                 Specifies an Android theme to apply to this Activity as soon as
@@ -83,11 +83,11 @@
 52                 to determine the Window background behind the Flutter UI.
 53            -->
 54            <meta-data
-54-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:23:13-26:17
+54-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:23:13-26:17
 55                android:name="io.flutter.embedding.android.NormalTheme"
-55-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:24:15-70
+55-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:24:15-70
 56                android:resource="@style/NormalTheme" />
-56-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:25:15-52
+56-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:25:15-52
 57            <!--
 58                 Displays an Android View that continues showing the launch screen
 59                 Drawable until Flutter paints its first frame, then this splash
@@ -96,188 +96,189 @@
 62                 Flutter's first frame.
 63            -->
 64            <meta-data
-64-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:32:13-35:17
+64-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:32:13-35:17
 65                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-65-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:33:15-79
+65-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:33:15-79
 66                android:resource="@drawable/launch_background" />
-66-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:34:15-61
-67            <meta-data
-67-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:36:13-37:74
-68                android:name="com.google.android.geo.API_KEY"
-68-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:36:24-69
-69                android:value="AIzaSyCLcYApnprCJO3hzFnDKcxwyY1UjWoEaRo" />
-69-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:37:17-72
+66-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:34:15-61
+67
+68            <intent-filter>
+68-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:36:13-39:29
+69                <action android:name="android.intent.action.MAIN" />
+69-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:37:17-68
+69-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:37:25-66
 70
-71            <intent-filter>
-71-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:38:13-41:29
-72                <action android:name="android.intent.action.MAIN" />
-72-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:39:17-68
-72-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:39:25-66
-73
-74                <category android:name="android.intent.category.LAUNCHER" />
-74-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:40:17-76
-74-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:40:27-74
-75            </intent-filter>
-76        </activity>
-77        <!--
-78             Don't delete the meta-data below.
-79             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
-80        -->
-81        <meta-data
-81-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:45:9-47:33
-82            android:name="flutterEmbedding"
-82-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:46:13-44
-83            android:value="2" />
-83-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:47:13-30
-84
-85        <service
-85-->[:firebase_storage] /Users/anushkap/Desktop/Eco-Comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-86            android:name="com.google.firebase.components.ComponentDiscoveryService"
-86-->[:firebase_storage] /Users/anushkap/Desktop/Eco-Comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
-87            android:directBootAware="true"
-87-->[com.google.firebase:firebase-common:19.3.1] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/770f46f77c9d655c36a12fcccc98cbc6/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
-88            android:exported="false" >
-88-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:35:13-37
-89            <meta-data
-89-->[:firebase_storage] /Users/anushkap/Desktop/Eco-Comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
-90                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-90-->[:firebase_storage] /Users/anushkap/Desktop/Eco-Comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
-91                android:value="com.google.firebase.components.ComponentRegistrar" />
-91-->[:firebase_storage] /Users/anushkap/Desktop/Eco-Comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
-92            <meta-data
-92-->[:firebase_auth] /Users/anushkap/Desktop/Eco-Comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
-93                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-93-->[:firebase_auth] /Users/anushkap/Desktop/Eco-Comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
-94                android:value="com.google.firebase.components.ComponentRegistrar" />
-94-->[:firebase_auth] /Users/anushkap/Desktop/Eco-Comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
-95            <meta-data
-95-->[:firebase_core] /Users/anushkap/Desktop/Eco-Comet/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
-96                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-96-->[:firebase_core] /Users/anushkap/Desktop/Eco-Comet/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
-97                android:value="com.google.firebase.components.ComponentRegistrar" />
-97-->[:firebase_core] /Users/anushkap/Desktop/Eco-Comet/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
-98            <meta-data
-98-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:36:13-38:85
-99                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-99-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:37:17-109
-100                android:value="com.google.firebase.components.ComponentRegistrar" />
-100-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:38:17-82
-101            <meta-data
-101-->[com.google.android.gms:play-services-measurement-api:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:30:13-32:85
-102                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-102-->[com.google.android.gms:play-services-measurement-api:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:31:17-139
-103                android:value="com.google.firebase.components.ComponentRegistrar" />
-103-->[com.google.android.gms:play-services-measurement-api:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:32:17-82
-104            <meta-data
-104-->[com.google.firebase:firebase-storage:19.2.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/7ba89be51874d2096ca7b4a7c08f1d34/firebase-storage-19.2.0/AndroidManifest.xml:33:13-35:85
-105                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-105-->[com.google.firebase:firebase-storage:19.2.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/7ba89be51874d2096ca7b4a7c08f1d34/firebase-storage-19.2.0/AndroidManifest.xml:34:17-107
-106                android:value="com.google.firebase.components.ComponentRegistrar" />
-106-->[com.google.firebase:firebase-storage:19.2.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/7ba89be51874d2096ca7b4a7c08f1d34/firebase-storage-19.2.0/AndroidManifest.xml:35:17-82
-107            <meta-data
-107-->[com.google.firebase:firebase-installations:16.3.2] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:17:13-19:85
-108                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-108-->[com.google.firebase:firebase-installations:16.3.2] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:18:17-127
-109                android:value="com.google.firebase.components.ComponentRegistrar" />
-109-->[com.google.firebase:firebase-installations:16.3.2] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:19:17-82
-110        </service>
-111
-112        <provider
-112-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
-113            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-113-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
-114            android:authorities="com.gemini.eco_comet.flutter.image_provider"
-114-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
-115            android:exported="false"
-115-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
-116            android:grantUriPermissions="true" >
-116-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
-117            <meta-data
-117-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
-118                android:name="android.support.FILE_PROVIDER_PATHS"
-118-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
-119                android:resource="@xml/flutter_image_picker_file_paths" />
-119-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
-120        </provider> <!-- Needs to be explicitly declared on P+ -->
-121        <uses-library
-121-->[com.google.android.gms:play-services-maps:17.0.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6b9b7fc1ad481537ed0a66d62976ec46/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
-122            android:name="org.apache.http.legacy"
-122-->[com.google.android.gms:play-services-maps:17.0.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6b9b7fc1ad481537ed0a66d62976ec46/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
-123            android:required="false" />
-123-->[com.google.android.gms:play-services-maps:17.0.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6b9b7fc1ad481537ed0a66d62976ec46/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
-124
-125        <activity
-125-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:24:9-31:50
-126            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-126-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:25:13-85
-127            android:excludeFromRecents="true"
-127-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:26:13-46
-128            android:exported="true"
-128-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:27:13-36
-129            android:launchMode="singleTask"
-129-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:28:13-44
-130            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-130-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:29:13-102
-131            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-131-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:30:13-72
-132
-133        <receiver
-133-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:29:9-33:20
-134            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-134-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:30:13-85
-135            android:enabled="true"
-135-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:31:13-35
-136            android:exported="false" >
-136-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:32:13-37
-137        </receiver>
-138
-139        <service
-139-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:35:9-38:40
-140            android:name="com.google.android.gms.measurement.AppMeasurementService"
-140-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:36:13-84
-141            android:enabled="true"
-141-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:37:13-35
-142            android:exported="false" />
-142-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:38:13-37
-143        <service
-143-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:39:9-43:72
-144            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-144-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:40:13-87
-145            android:enabled="true"
-145-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:41:13-35
-146            android:exported="false"
-146-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:42:13-37
-147            android:permission="android.permission.BIND_JOB_SERVICE" />
-147-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:43:13-69
-148
-149        <activity
-149-->[com.google.android.gms:play-services-base:17.1.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/1cad50e824c2a91bda736a296b3e673e/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
-150            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-150-->[com.google.android.gms:play-services-base:17.1.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/1cad50e824c2a91bda736a296b3e673e/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
-151            android:exported="false"
-151-->[com.google.android.gms:play-services-base:17.1.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/1cad50e824c2a91bda736a296b3e673e/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
-152            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-152-->[com.google.android.gms:play-services-base:17.1.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/1cad50e824c2a91bda736a296b3e673e/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
-153
-154        <provider
-154-->[com.google.firebase:firebase-common:19.3.1] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/770f46f77c9d655c36a12fcccc98cbc6/jetified-firebase-common-19.3.1/AndroidManifest.xml:26:9-31:39
-155            android:name="com.google.firebase.provider.FirebaseInitProvider"
-155-->[com.google.firebase:firebase-common:19.3.1] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/770f46f77c9d655c36a12fcccc98cbc6/jetified-firebase-common-19.3.1/AndroidManifest.xml:27:13-77
-156            android:authorities="com.gemini.eco_comet.firebaseinitprovider"
-156-->[com.google.firebase:firebase-common:19.3.1] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/770f46f77c9d655c36a12fcccc98cbc6/jetified-firebase-common-19.3.1/AndroidManifest.xml:28:13-72
-157            android:directBootAware="true"
-157-->[com.google.firebase:firebase-common:19.3.1] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/770f46f77c9d655c36a12fcccc98cbc6/jetified-firebase-common-19.3.1/AndroidManifest.xml:29:13-43
-158            android:exported="false"
-158-->[com.google.firebase:firebase-common:19.3.1] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/770f46f77c9d655c36a12fcccc98cbc6/jetified-firebase-common-19.3.1/AndroidManifest.xml:30:13-37
-159            android:initOrder="100" />
-159-->[com.google.firebase:firebase-common:19.3.1] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/770f46f77c9d655c36a12fcccc98cbc6/jetified-firebase-common-19.3.1/AndroidManifest.xml:31:13-36
-160
-161        <meta-data
-161-->[com.google.android.gms:play-services-basement:17.0.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/73420dbc85199916c7e85132323ab5a5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
-162            android:name="com.google.android.gms.version"
-162-->[com.google.android.gms:play-services-basement:17.0.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/73420dbc85199916c7e85132323ab5a5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
-163            android:value="@integer/google_play_services_version" />
-163-->[com.google.android.gms:play-services-basement:17.0.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/73420dbc85199916c7e85132323ab5a5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
-164    </application>
-165
-166</manifest>
+71                <category android:name="android.intent.category.LAUNCHER" />
+71-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:38:17-76
+71-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:38:27-74
+72            </intent-filter>
+73        </activity>
+74
+75        <meta-data
+75-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:41:9-42:70
+76            android:name="com.google.android.geo.API_KEY"
+76-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:41:20-65
+77            android:value="AIzaSyDy2IQm-Eyp0yXr-r9mstj5I7m31teHucs" />
+77-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:42:13-68
+78        <!--
+79             Don't delete the meta-data below.
+80             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+81        -->
+82        <meta-data
+82-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:45:9-47:33
+83            android:name="flutterEmbedding"
+83-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:46:13-44
+84            android:value="2" />
+84-->C:\Users\areeb\Eco-Comet\android\app\src\main\AndroidManifest.xml:47:13-30
+85
+86        <service
+86-->[:firebase_storage] C:\Users\areeb\Eco-Comet\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+87            android:name="com.google.firebase.components.ComponentDiscoveryService"
+87-->[:firebase_storage] C:\Users\areeb\Eco-Comet\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+88            android:directBootAware="true"
+88-->[com.google.firebase:firebase-common:19.3.1] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0dbf46822fe6e75dafbd0231aebd0d67\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+89            android:exported="false" >
+89-->[com.google.firebase:firebase-storage:19.2.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\7ba89be51874d2096ca7b4a7c08f1d34\firebase-storage-19.2.0\AndroidManifest.xml:32:13-37
+90            <meta-data
+90-->[:firebase_storage] C:\Users\areeb\Eco-Comet\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+91                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
+91-->[:firebase_storage] C:\Users\areeb\Eco-Comet\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+92                android:value="com.google.firebase.components.ComponentRegistrar" />
+92-->[:firebase_storage] C:\Users\areeb\Eco-Comet\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+93            <meta-data
+93-->[:firebase_auth] C:\Users\areeb\Eco-Comet\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+94                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
+94-->[:firebase_auth] C:\Users\areeb\Eco-Comet\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+95                android:value="com.google.firebase.components.ComponentRegistrar" />
+95-->[:firebase_auth] C:\Users\areeb\Eco-Comet\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+96            <meta-data
+96-->[:firebase_core] C:\Users\areeb\Eco-Comet\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+97                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+97-->[:firebase_core] C:\Users\areeb\Eco-Comet\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+98                android:value="com.google.firebase.components.ComponentRegistrar" />
+98-->[:firebase_core] C:\Users\areeb\Eco-Comet\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+99            <meta-data
+99-->[com.google.firebase:firebase-storage:19.2.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\7ba89be51874d2096ca7b4a7c08f1d34\firebase-storage-19.2.0\AndroidManifest.xml:33:13-35:85
+100                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+100-->[com.google.firebase:firebase-storage:19.2.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\7ba89be51874d2096ca7b4a7c08f1d34\firebase-storage-19.2.0\AndroidManifest.xml:34:17-107
+101                android:value="com.google.firebase.components.ComponentRegistrar" />
+101-->[com.google.firebase:firebase-storage:19.2.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\7ba89be51874d2096ca7b4a7c08f1d34\firebase-storage-19.2.0\AndroidManifest.xml:35:17-82
+102            <meta-data
+102-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6592e68b7188e0d04198ec98fa3302a4\firebase-auth-19.4.0\AndroidManifest.xml:36:13-38:85
+103                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+103-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6592e68b7188e0d04198ec98fa3302a4\firebase-auth-19.4.0\AndroidManifest.xml:37:17-109
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6592e68b7188e0d04198ec98fa3302a4\firebase-auth-19.4.0\AndroidManifest.xml:38:17-82
+105            <meta-data
+105-->[com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\e1806b5d8c796f42005748cdeee0ef6f\play-services-measurement-api-17.6.0\AndroidManifest.xml:30:13-32:85
+106                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+106-->[com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\e1806b5d8c796f42005748cdeee0ef6f\play-services-measurement-api-17.6.0\AndroidManifest.xml:31:17-139
+107                android:value="com.google.firebase.components.ComponentRegistrar" />
+107-->[com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\e1806b5d8c796f42005748cdeee0ef6f\play-services-measurement-api-17.6.0\AndroidManifest.xml:32:17-82
+108            <meta-data
+108-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\2de984a89aa50922b6ead3cb0334fcbc\firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
+109                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+109-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\2de984a89aa50922b6ead3cb0334fcbc\firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
+110                android:value="com.google.firebase.components.ComponentRegistrar" />
+110-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\2de984a89aa50922b6ead3cb0334fcbc\firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
+111        </service>
+112
+113        <provider
+113-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+114            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+114-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+115            android:authorities="com.gemini.eco_comet.flutter.image_provider"
+115-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+116            android:exported="false"
+116-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+117            android:grantUriPermissions="true" >
+117-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+118            <meta-data
+118-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+119                android:name="android.support.FILE_PROVIDER_PATHS"
+119-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+120                android:resource="@xml/flutter_image_picker_file_paths" />
+120-->[:image_picker] C:\Users\areeb\Eco-Comet\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+121        </provider> <!-- Needs to be explicitly declared on P+ -->
+122        <uses-library
+122-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6b9b7fc1ad481537ed0a66d62976ec46\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+123            android:name="org.apache.http.legacy"
+123-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6b9b7fc1ad481537ed0a66d62976ec46\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+124            android:required="false" />
+124-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6b9b7fc1ad481537ed0a66d62976ec46\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+125
+126        <activity
+126-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6592e68b7188e0d04198ec98fa3302a4\firebase-auth-19.4.0\AndroidManifest.xml:24:9-31:50
+127            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+127-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6592e68b7188e0d04198ec98fa3302a4\firebase-auth-19.4.0\AndroidManifest.xml:25:13-85
+128            android:excludeFromRecents="true"
+128-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6592e68b7188e0d04198ec98fa3302a4\firebase-auth-19.4.0\AndroidManifest.xml:26:13-46
+129            android:exported="true"
+129-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6592e68b7188e0d04198ec98fa3302a4\firebase-auth-19.4.0\AndroidManifest.xml:27:13-36
+130            android:launchMode="singleTask"
+130-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6592e68b7188e0d04198ec98fa3302a4\firebase-auth-19.4.0\AndroidManifest.xml:28:13-44
+131            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+131-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6592e68b7188e0d04198ec98fa3302a4\firebase-auth-19.4.0\AndroidManifest.xml:29:13-102
+132            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+132-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6592e68b7188e0d04198ec98fa3302a4\firebase-auth-19.4.0\AndroidManifest.xml:30:13-72
+133
+134        <receiver
+134-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:29:9-33:20
+135            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+135-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:30:13-85
+136            android:enabled="true"
+136-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:31:13-35
+137            android:exported="false" >
+137-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:32:13-37
+138        </receiver>
+139
+140        <service
+140-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:35:9-38:40
+141            android:name="com.google.android.gms.measurement.AppMeasurementService"
+141-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:36:13-84
+142            android:enabled="true"
+142-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:37:13-35
+143            android:exported="false" />
+143-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:38:13-37
+144        <service
+144-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:39:9-43:72
+145            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+145-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:40:13-87
+146            android:enabled="true"
+146-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:41:13-35
+147            android:exported="false"
+147-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:42:13-37
+148            android:permission="android.permission.BIND_JOB_SERVICE" />
+148-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0d342e24eccb8c9a3b162d4b6c1af4aa\play-services-measurement-17.6.0\AndroidManifest.xml:43:13-69
+149
+150        <activity
+150-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\1cad50e824c2a91bda736a296b3e673e\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+151            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+151-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\1cad50e824c2a91bda736a296b3e673e\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+152            android:exported="false"
+152-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\1cad50e824c2a91bda736a296b3e673e\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+153            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+153-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\1cad50e824c2a91bda736a296b3e673e\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+154
+155        <provider
+155-->[com.google.firebase:firebase-common:19.3.1] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0dbf46822fe6e75dafbd0231aebd0d67\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+156            android:name="com.google.firebase.provider.FirebaseInitProvider"
+156-->[com.google.firebase:firebase-common:19.3.1] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0dbf46822fe6e75dafbd0231aebd0d67\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+157            android:authorities="com.gemini.eco_comet.firebaseinitprovider"
+157-->[com.google.firebase:firebase-common:19.3.1] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0dbf46822fe6e75dafbd0231aebd0d67\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+158            android:directBootAware="true"
+158-->[com.google.firebase:firebase-common:19.3.1] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0dbf46822fe6e75dafbd0231aebd0d67\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+159            android:exported="false"
+159-->[com.google.firebase:firebase-common:19.3.1] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0dbf46822fe6e75dafbd0231aebd0d67\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+160            android:initOrder="100" />
+160-->[com.google.firebase:firebase-common:19.3.1] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\0dbf46822fe6e75dafbd0231aebd0d67\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+161
+162        <meta-data
+162-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6eded4401d745283f380c03f26f85fff\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+163            android:name="com.google.android.gms.version"
+163-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6eded4401d745283f380c03f26f85fff\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+164            android:value="@integer/google_play_services_version" />
+164-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\areeb\.gradle\caches\transforms-2\files-2.1\6eded4401d745283f380c03f26f85fff\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+165    </application>
+166
+167</manifest>

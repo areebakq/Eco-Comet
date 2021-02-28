@@ -1,14 +1,14 @@
 # This is a generated file; do not edit or check into version control.
-camera=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.7.0+2/
-firebase_analytics=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-1.2.0+1/
-firebase_auth=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.18.4+1/
-firebase_auth_web=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.3.2+3/
-firebase_core=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.3/
-firebase_core_web=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1+1/
-firebase_storage=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-5.2.0/
-firebase_storage_web=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-0.1.1+1/
-flutter_plugin_android_lifecycle=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/
-google_maps_flutter=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-1.2.0/
-image_picker=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+22/
-video_player=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-1.0.1/
-video_player_web=/Users/anushkap/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-0.1.4+1/
+camera=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\camera-0.7.0+2\\
+firebase_analytics=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_analytics-1.2.0+1\\
+firebase_auth=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.18.4+1\\
+firebase_auth_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-0.3.2+3\\
+firebase_core=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.5.3\\
+firebase_core_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.2.1+1\\
+firebase_storage=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-5.2.0\\
+firebase_storage_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage_web-0.1.1+1\\
+flutter_plugin_android_lifecycle=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.11\\
+google_maps_flutter=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_maps_flutter-1.2.0\\
+image_picker=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.7+22\\
+video_player=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player-1.0.1\\
+video_player_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player_web-0.1.4+1\\
