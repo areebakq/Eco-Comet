@@ -33,6 +33,14 @@ class MyApp extends StatelessWidget {
                         width: 320,
                         height: 320,
                       ),
+                      Container(
+                          padding: EdgeInsets.all(20.0),
+                        child: Text(
+                          'Your companion for sustainability!',
+                          style: TextStyle(fontSize: 20,),
+                        ),
+                      ),
+
                       ElevatedButton(
                         child: Text('BEGIN'),
                         onPressed: () {
