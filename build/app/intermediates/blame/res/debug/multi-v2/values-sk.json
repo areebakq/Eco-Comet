@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/anushkap/Desktop/eco_comet/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
+            "outputFile": "/Users/anushkap/Desktop/Eco-Comet/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
             "map": [
                 {
                     "source": "/Users/anushkap/.gradle/caches/transforms-2/files-2.1/73420dbc85199916c7e85132323ab5a5/jetified-play-services-basement-17.0.0/res/values-sk/values.xml",

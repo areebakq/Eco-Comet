@@ -12,26 +12,26 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/anushkap/Desktop/eco_comet/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/anushkap/Desktop/eco_comet/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->[:firebase_analytics] /Users/anushkap/Desktop/eco_comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
-15-->[:firebase_analytics] /Users/anushkap/Desktop/eco_comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+15-->[:firebase_analytics] /Users/anushkap/Desktop/Eco-Comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+15-->[:firebase_analytics] /Users/anushkap/Desktop/Eco-Comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
 16    <uses-permission android:name="android.permission.WAKE_LOCK" />
-16-->[:firebase_analytics] /Users/anushkap/Desktop/eco_comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
-16-->[:firebase_analytics] /Users/anushkap/Desktop/eco_comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
+16-->[:firebase_analytics] /Users/anushkap/Desktop/Eco-Comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
+16-->[:firebase_analytics] /Users/anushkap/Desktop/Eco-Comet/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
 17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-17-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
-17-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+17-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+17-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
 18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-18-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
-18-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+18-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+18-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
 19    <uses-permission android:name="android.permission.CAMERA" />
-19-->[:camera] /Users/anushkap/Desktop/eco_comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
-19-->[:camera] /Users/anushkap/Desktop/eco_comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-62
+19-->[:camera] /Users/anushkap/Desktop/Eco-Comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
+19-->[:camera] /Users/anushkap/Desktop/Eco-Comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-62
 20    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-20-->[:camera] /Users/anushkap/Desktop/eco_comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-71
-20-->[:camera] /Users/anushkap/Desktop/eco_comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-68
+20-->[:camera] /Users/anushkap/Desktop/Eco-Comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-71
+20-->[:camera] /Users/anushkap/Desktop/Eco-Comet/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-68
 21    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 21-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:26:5-110
 21-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:26:22-107
@@ -43,30 +43,30 @@
 27         FlutterApplication and put your custom class here.
 28    -->
 29    <application
-29-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:8:5-46:19
+29-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:8:5-46:19
 30        android:name="io.flutter.app.FlutterApplication"
-30-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:9:9-57
+30-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:9:9-57
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.1.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:18-86
 32        android:debuggable="true"
 33        android:icon="@mipmap/ic_launcher"
-33-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:11:9-43
+33-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:11:9-43
 34        android:label="eco_comet" >
-34-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:10:9-34
+34-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:10:9-34
 35        <activity
-35-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:12:9-40:20
+35-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:12:9-40:20
 36            android:name="com.gemini.eco_comet.MainActivity"
-36-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:13:13-41
+36-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:13:13-41
 37            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-37-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:16:13-163
+37-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:16:13-163
 38            android:hardwareAccelerated="true"
-38-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:17:13-47
+38-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:17:13-47
 39            android:launchMode="singleTop"
-39-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:14:13-43
+39-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:14:13-43
 40            android:theme="@style/LaunchTheme"
-40-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:15:13-47
+40-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:15:13-47
 41            android:windowSoftInputMode="adjustResize" >
-41-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:18:13-55
+41-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:18:13-55
 42
 43            <!--
 44                 Specifies an Android theme to apply to this Activity as soon as
@@ -75,11 +75,11 @@
 47                 to determine the Window background behind the Flutter UI.
 48            -->
 49            <meta-data
-49-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:23:13-26:17
+49-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:23:13-26:17
 50                android:name="io.flutter.embedding.android.NormalTheme"
-50-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:24:15-70
+50-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:24:15-70
 51                android:resource="@style/NormalTheme" />
-51-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:25:15-52
+51-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:25:15-52
 52            <!--
 53                 Displays an Android View that continues showing the launch screen
 54                 Drawable until Flutter paints its first frame, then this splash
@@ -88,21 +88,21 @@
 57                 Flutter's first frame.
 58            -->
 59            <meta-data
-59-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:32:13-35:17
+59-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:32:13-35:17
 60                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-60-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:33:15-79
+60-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:33:15-79
 61                android:resource="@drawable/launch_background" />
-61-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:34:15-61
+61-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:34:15-61
 62
 63            <intent-filter>
-63-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:36:13-39:29
+63-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:36:13-39:29
 64                <action android:name="android.intent.action.MAIN" />
-64-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:37:17-68
-64-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:37:25-66
+64-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:37:17-68
+64-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:37:25-66
 65
 66                <category android:name="android.intent.category.LAUNCHER" />
-66-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:38:17-76
-66-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:38:27-74
+66-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:38:17-76
+66-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:38:27-74
 67            </intent-filter>
 68        </activity>
 69        <!--
@@ -110,38 +110,38 @@
 71             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 72        -->
 73        <meta-data
-73-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:43:9-45:33
+73-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:43:9-45:33
 74            android:name="flutterEmbedding"
-74-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:44:13-44
+74-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:44:13-44
 75            android:value="2" />
-75-->/Users/anushkap/Desktop/eco_comet/android/app/src/main/AndroidManifest.xml:45:13-30
+75-->/Users/anushkap/Desktop/Eco-Comet/android/app/src/main/AndroidManifest.xml:45:13-30
 76
 77        <service
-77-->[:firebase_auth] /Users/anushkap/Desktop/eco_comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+77-->[:firebase_auth] /Users/anushkap/Desktop/Eco-Comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 78            android:name="com.google.firebase.components.ComponentDiscoveryService"
-78-->[:firebase_auth] /Users/anushkap/Desktop/eco_comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+78-->[:firebase_auth] /Users/anushkap/Desktop/Eco-Comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 79            android:directBootAware="true"
 79-->[com.google.firebase:firebase-common:19.3.1] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/770f46f77c9d655c36a12fcccc98cbc6/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
 80            android:exported="false" >
 80-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:35:13-37
 81            <meta-data
-81-->[:firebase_auth] /Users/anushkap/Desktop/eco_comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+81-->[:firebase_auth] /Users/anushkap/Desktop/Eco-Comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 82                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-82-->[:firebase_auth] /Users/anushkap/Desktop/eco_comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+82-->[:firebase_auth] /Users/anushkap/Desktop/Eco-Comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 83                android:value="com.google.firebase.components.ComponentRegistrar" />
-83-->[:firebase_auth] /Users/anushkap/Desktop/eco_comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+83-->[:firebase_auth] /Users/anushkap/Desktop/Eco-Comet/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 84            <meta-data
-84-->[:firebase_storage] /Users/anushkap/Desktop/eco_comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+84-->[:firebase_storage] /Users/anushkap/Desktop/Eco-Comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 85                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-85-->[:firebase_storage] /Users/anushkap/Desktop/eco_comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+85-->[:firebase_storage] /Users/anushkap/Desktop/Eco-Comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
 86                android:value="com.google.firebase.components.ComponentRegistrar" />
-86-->[:firebase_storage] /Users/anushkap/Desktop/eco_comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+86-->[:firebase_storage] /Users/anushkap/Desktop/Eco-Comet/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 87            <meta-data
-87-->[:firebase_core] /Users/anushkap/Desktop/eco_comet/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+87-->[:firebase_core] /Users/anushkap/Desktop/Eco-Comet/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 88                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-88-->[:firebase_core] /Users/anushkap/Desktop/eco_comet/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+88-->[:firebase_core] /Users/anushkap/Desktop/Eco-Comet/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 89                android:value="com.google.firebase.components.ComponentRegistrar" />
-89-->[:firebase_core] /Users/anushkap/Desktop/eco_comet/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+89-->[:firebase_core] /Users/anushkap/Desktop/Eco-Comet/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 90            <meta-data
 90-->[com.google.firebase:firebase-auth:19.4.0] /Users/anushkap/.gradle/caches/transforms-2/files-2.1/6592e68b7188e0d04198ec98fa3302a4/firebase-auth-19.4.0/AndroidManifest.xml:36:13-38:85
 91                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -169,21 +169,21 @@
 102        </service>
 103
 104        <provider
-104-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+104-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
 105            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-105-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+105-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
 106            android:authorities="com.gemini.eco_comet.flutter.image_provider"
-106-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+106-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
 107            android:exported="false"
-107-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+107-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
 108            android:grantUriPermissions="true" >
-108-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+108-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
 109            <meta-data
-109-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+109-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
 110                android:name="android.support.FILE_PROVIDER_PATHS"
-110-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+110-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
 111                android:resource="@xml/flutter_image_picker_file_paths" />
-111-->[:image_picker] /Users/anushkap/Desktop/eco_comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+111-->[:image_picker] /Users/anushkap/Desktop/Eco-Comet/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
 112        </provider>
 113
 114        <activity

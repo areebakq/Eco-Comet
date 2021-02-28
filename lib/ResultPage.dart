@@ -42,9 +42,6 @@ class ResultPage extends StatelessWidget {
                   ),
                   Positioned(
                       child: Container(
-                          padding:
-                          height:54,
-                          width: 300,
                           decoration: BoxDecoration(
                             color: Colors.white,
                           )
