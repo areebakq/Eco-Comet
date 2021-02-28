@@ -59,7 +59,7 @@ class _MapsPageState extends State<MapsPage> {
           onMapCreated: _onMapCreated,
           initialCameraPosition: CameraPosition(
             target: _center,
-            zoom: 15.0,
+            zoom: 16.0,
           ),
           markers: _markers,
         ),

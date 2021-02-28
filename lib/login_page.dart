@@ -1,3 +1,7 @@
+import 'dart:async';
+import 'dart:convert';
+import 'package:http/http.dart' as http;
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:eco_comet/nav_bar.dart';
 import 'package:flutter/material.dart';
 import 'ImagePage.dart';
@@ -13,7 +17,31 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
-  String _email, _password;
+
+  signIn(String user, String pass) async {
+    Map data = {
+      'user': user,
+      'pass': pass
+    };
+    var jsonData = null;
+    SharedPreferences sharedPreferences = await SharedPreferences.getInstance();
+    var response = await http.post(
+        'https://hack-utd-306121.uc.r.appspot.com/login',
+        body: data
+    );
+    if (response.statusCode == 200) {
+      jsonData = json.decode(response.body);
+      setState(() {
+        sharedPreferences.setString("token", jsonData('token'));
+        Navigator.of(context).pushAndRemoveUntil(MaterialPageRoute(builder: (BuildContext context) => NavigationBar()), (Route<dynamic> route) => false);
+      });
+    }
+    else {
+      print(response.body);
+    }
+  }
+
+  String username, password;
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -25,10 +53,11 @@ class _LoginPageState extends State<LoginPage> {
             shadowColor: Colors.white,
             elevation: 5,
             shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(40)),
-            padding: new EdgeInsets.only(left: 30, right: 30, top: 15, bottom: 15),
+            padding: new EdgeInsets.only(left:30, right:30, top:15, bottom:15),
           ),
         ),
       ),
+
       home: Scaffold(
           backgroundColor: Color(0xffa9e5bb),
         resizeToAvoidBottomInset: true,
@@ -56,14 +85,14 @@ class _LoginPageState extends State<LoginPage> {
                                   Padding(
                                     padding: EdgeInsets.all(5),
                                     child: TextField(
-                                        onChanged: (String str){String username = str;},
+                                        onChanged: (String str){username = str;},
                                         decoration: InputDecoration(
                                           border: new OutlineInputBorder(
                                             borderRadius: BorderRadius.all(Radius.circular(70)),
                                             borderSide: BorderSide(width: 0, style: BorderStyle.none),
                                           ),
                                           filled: true,
-                                          hintText: 'Enter email address',
+                                          hintText: 'Enter username',
                                           hintStyle: new TextStyle(color: Color(0xffB48C4A)),
                                           fillColor: Colors.white,
                                         )
@@ -72,7 +101,7 @@ class _LoginPageState extends State<LoginPage> {
                                   Padding(
                                     padding: EdgeInsets.all(5),
                                     child: TextField(
-                                      onChanged: (String str){String password = str;},
+                                      onChanged: (String str){password = str;},
                                       obscureText: true,
                                       decoration: InputDecoration(
                                         border: new OutlineInputBorder(
@@ -99,9 +128,7 @@ class _LoginPageState extends State<LoginPage> {
                                               width: 120,
                                               child: ElevatedButton(
                                                 onPressed: () {
-                                                  Navigator.push(context,
-                                                      MaterialPageRoute(builder: (context) => NavigationBar()),
-                                                  );
+                                                  signIn(username, password);
                                                 },
                                                 child: Text(
                                                     'Login',
