@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/assets/logo.png" width="250">
+<img src="Simple%20Green%20Tree%20Art%20%26%20Design%20Logo.gif" width="250">
   </p>
   
 # EcoComet
