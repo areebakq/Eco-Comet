@@ -4,7 +4,8 @@
   
 # EcoComet
 *Your personal assistant for a sustainable life! Making UTD greener one step at a time!*
-2nd place winner overall at HackUTD 2021, and 2nd place winner for the UTD Student Government challenge.
+
+*2nd place winner overall at HackUTD 2021, and 2nd place winner for the UTD Student Government challenge.*
 
 ## Inspiration
 Our app takes inspiration from the Forest app as well as an affinity to preserve and protect the environment around us. Our goal was to create an incentive for recycling by allowing users to classify items as recyclable, and add trees to their virtual forest if they find and classify recyclable items.
